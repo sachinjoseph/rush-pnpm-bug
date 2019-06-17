@@ -655,6 +655,7 @@ packages:
       integrity: sha512-HERKkzuyPOYqJl5jZKhgM33O1t/VNSRO7iiveSm94Vo6Y9MUmwN+r/j+NljT+l/Zr5yCj0ZbSsa682VCqJ/U8w==
       tarball: 'file:projects/mypackage.tgz'
     version: 0.0.0
+registry: ''
 specifiers:
   '@emotion/core': 10.0.9
   '@emotion/styled': 10.0.9
