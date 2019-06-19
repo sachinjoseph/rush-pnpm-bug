@@ -409,7 +409,7 @@ packages:
     peerDependencies:
       react: ^15.0.0 || ^16.0.0
     resolution:
-      integrity: sha1-LzQpeT7a7+LQdxIflzzlo8egZRo=
+      integrity: sha1-6n/QXYjQ4ygzytJB+TM8Ekw1upo=
   /react-is/16.8.6:
     dev: false
     resolution:
