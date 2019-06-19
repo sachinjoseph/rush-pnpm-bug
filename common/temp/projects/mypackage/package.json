@@ -1,0 +1,13 @@
+{
+  "name": "@rush-temp/mypackage",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "10.0.9",
+    "@emotion/styled": "10.0.9",
+    "@smooth-ui/core-em": "9.0.2",
+    "emotion-theming": "10.0.9",
+    "react": "16.8.3",
+    "react-dom": "16.8.3"
+  }
+}
