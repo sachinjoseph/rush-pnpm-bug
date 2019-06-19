@@ -136,7 +136,7 @@ packages:
       prop-types: 15.7.2
       react: 16.8.3
       react-dom: 16.8.3_react@16.8.3
-      react-focus-lock: 1.19.1_react@16.8.3
+      react-focus-lock: 1.17.7_react@16.8.3
       react-remove-scroll: 1.0.8_react@16.8.3
       react-transition-group: 2.9.0_react-dom@16.8.3+react@16.8.3
     dev: false
@@ -398,7 +398,7 @@ packages:
       react: ^16.0.0
     resolution:
       integrity: sha512-ttMem9yJL4/lpItZAQ2NTFAbV7frotHk5DZEHXUOws2rMmrsvh1Na7ThGT0dTzUIl6pqTOi5tYREfL8AEna3lA==
-  /react-focus-lock/1.19.1_react@16.8.3:
+  /react-focus-lock/1.17.7_react@16.8.3:
     dependencies:
       '@babel/runtime': 7.4.5
       focus-lock: 0.6.5
